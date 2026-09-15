@@ -37,9 +37,9 @@ Explored relationships between climate indicators and global agricultural commod
 ---
 
 ### [Residential Energy Usage Shiny App](https://github.com/ajrofe12/shiny-app-project)
-Built an interactive Shiny dashboard backed by a Random Forest classifier to categorize homes as low, medium, or high energy usage based on 200+ building, demographic, and climate variables. Processed an 8.5M-row household dataset into modeling-ready formats.
+Built an interactive Shiny dashboard backed by a Random Forest classifier to categorize homes as low, medium, or high energy usage. Trained on 100,000 sampled observations with 200+ building, weather, demographic, and energy consumption variables. The app lets users preview the cleaned dataset, explore variable importance scores, and examine model predictions with confusion matrices and accuracy metrics. A live version of the app is hosted on shinyapps.io.
 
-**Tools:** R, Shiny, Random Forest, data preprocessing
+**Tools:** R, Shiny, tidyverse, ranger, caret, ggplot2
 
 ---
 
