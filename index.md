@@ -44,9 +44,9 @@ Built an interactive Shiny dashboard backed by a Random Forest classifier to cat
 ---
 
 ### [Emergency Hospital Transportation Database](https://github.com/ajrofe12/hospital-database-project)
-Designed a relational database system for emergency medical dispatch workflows, including ERD diagrams, conceptual and logical models, and a full SQL implementation with constraints, relationships, and sample queries.
+Designed a relational database system to support emergency medical dispatch workflows, replacing paper-based processes with a centralized SQL database. The system tracks 911 calls, ambulance assignments, EMT and driver dispatch, patient pickup/drop-off locations, and hospital/doctor routing. Includes conceptual and logical data models, a full SQL implementation with constraints and relationships, and an ER data requirements specification.
 
-**Tools:** SQL, database design, ERD modeling
+**Tools:** SQL, relational database design, ER modeling
 
 ---
 
