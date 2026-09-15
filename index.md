@@ -30,9 +30,9 @@ Investigated whether MLB players reduce performance after signing long-term, gua
 ---
 
 ### [Climate–Commodity Machine Learning Project](https://github.com/ajrofe12/commodity-price-ml-project)
-Explored relationships between climate indicators (temperature, precipitation, anomalies) and seven global commodity prices. Built a Python pipeline for preprocessing, feature engineering, and predictive modeling, with adjustments to account for COVID-19 period distortions.
+Explored relationships between climate indicators and global agricultural commodity prices across seven commodities (coffee, cocoa, wheat, maize, rice, soybeans, cotton). Collected ERA5-Land climate data from major growing regions worldwide and engineered derived features including temperature anomalies, drought indices, and heat stress metrics. Built a Random Forest regression model that performed well on training data but revealed how post-COVID supply chain disruptions overwhelmed climate signals, leading to a proposed hybrid Markovian Momentum Model for handling regime shifts.
 
-**Tools:** Python, pandas, scikit-learn, time-series analysis
+**Tools:** Python, pandas, scikit-learn, matplotlib, time-series analysis
 
 ---
 
