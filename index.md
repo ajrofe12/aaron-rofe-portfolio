@@ -11,9 +11,7 @@
 
 # Aaron Rofe
 
-R&D Tax Analyst with a background in data science and sports analytics. I hold an M.S. in Applied Data Science from Syracuse University and a B.S. in Sport Analytics. I work with Python, R, SQL, Excel, Tableau, and Shiny to collect, analyze, and communicate data-driven insights.
-
-I'm currently looking for opportunities in data analytics and data science. Feel free to reach out.
+I'm a data science graduate currently working as an R&D Tax Analyst, where I research and document qualifying R&D activities across multiple clients. I have an M.S. in Applied Data Science from Syracuse University and a B.S. in Sport Analytics, and I'm most comfortable working in Python, R, and SQL. I'm looking for my next opportunity in data analytics or data science — feel free to reach out.
 
 [LinkedIn](https://www.linkedin.com/in/aaronrofe/) | [GitHub](https://github.com/ajrofe12) | [Email](mailto:aaronrofe12@gmail.com)
 
