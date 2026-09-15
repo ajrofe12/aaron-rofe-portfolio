@@ -23,7 +23,7 @@ I'm currently looking for opportunities in data analytics and data science. Feel
 ## Projects
 
 ### [MLB Shirking Thesis](https://github.com/ajrofe12/shirking-in-MLB)
-Investigated whether MLB players show reduced performance after signing long-term contracts. Combined data from Fangraphs, Spotrac, and the baseballr package to build a multi-year player dataset, then used Generalized Additive Models (GAMs) in R to model performance trends and generate predictions for the 2025 free-agent class.
+Investigated whether MLB players reduce performance after signing long-term, guaranteed contracts. Combined salary and contract data from Spotrac with performance stats from Fangraphs and the baseballr package to build a dataset of ~1,800 player-seasons (2011–2024). Used Generalized Additive Models (GAMs) in R to capture nonlinear relationships between contract characteristics and performance change, finding that both larger salary increases and longer contracts significantly predict first-year performance declines. Also built predictive models to forecast shirking risk for the 2025 free-agent class.
 
 **Tools:** R, baseballr, GAM modeling, web scraping
 
